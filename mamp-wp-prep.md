@@ -1,5 +1,3 @@
-The following instructions will prepare you for the work we’ll be doing on Feb 12th. It’s important to do this quick prep prior to our meeting so that we can maximize the time we have together to configure your local server environment and play around with your WordPress “sandbox” while you have the opportunity to ask live-time questions and get immediate feedback.
-
 MAMP
 ----
 
